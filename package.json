@@ -1,0 +1,11 @@
+{
+  "name": "RussellBot",
+  "version": "1.0.0",
+  "description": "RussellBot, Created in Bridgeport Conneticut",
+  "main": "bot.js",
+  "author": "Brett Hobbs",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
